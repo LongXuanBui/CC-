@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "compare": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "xlocale": "cpp",
+        "xlocinfo": "cpp",
+        "xlocnum": "cpp",
+        "xmemory": "cpp",
+        "xstddef": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
